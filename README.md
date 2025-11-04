@@ -1,6 +1,6 @@
-# FCG_MVP - Fase 1 (Deliveráveis)
+# FCG_MVP - Fase 1 (Entregáveis)
 
-Este documento descreve como executar e validar o projeto fornecido (`FCG_MVP_F1.zip`) e reúne os entregáveis exigidos pela Fase 1 do TC NETT.
+Este documento descreve como executar e validar o projeto fornecido e reúne os entregáveis exigidos pela Fase 1.
 
 ## Conteúdo deste pacote
 - Código fonte (mantido conforme enviado no pacote original).
