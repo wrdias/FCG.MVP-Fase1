@@ -25,7 +25,6 @@ Este documento descreve como executar e validar o projeto fornecido e reúne os 
 - `GET /api/games` — lista pública de jogos
 - `GET /api/games/{id}` — detalhes do jogo
 - `POST /api/games` — criar jogo (Admin)
-- `DELETE /api/games/{id}` — deletar jogo (Admin)
 - `GET /api/games/library` — biblioteca do usuário (autenticado)
 
 ## Notas rápidas de conformidade
